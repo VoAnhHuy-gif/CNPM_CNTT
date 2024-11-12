@@ -1,0 +1,28 @@
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\bin\Debug\net6.0\FengShuiKoi_BO.deps.json
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\bin\Debug\net6.0\FengShuiKoi_BO.runtimeconfig.json
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\bin\Debug\net6.0\FengShuiKoi_BO.dll
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\bin\Debug\net6.0\FengShuiKoi_BO.pdb
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.csproj.AssemblyReference.cache
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.AssemblyInfoInputs.cache
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.AssemblyInfo.cs
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.csproj.CoreCompileInputs.cache
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.dll
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\refint\FengShuiKoi_BO.dll
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.pdb
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.genruntimeconfig.cache
+c:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\ref\FengShuiKoi_BO.dll
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\bin\Debug\net6.0\FengShuiKoi_BO.deps.json
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\bin\Debug\net6.0\FengShuiKoi_BO.runtimeconfig.json
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\bin\Debug\net6.0\FengShuiKoi_BO.dll
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\bin\Debug\net6.0\FengShuiKoi_BO.pdb
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.csproj.AssemblyReference.cache
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.AssemblyInfoInputs.cache
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.AssemblyInfo.cs
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.csproj.CoreCompileInputs.cache
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.dll
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\refint\FengShuiKoi_BO.dll
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.pdb
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\FengShuiKoi_BO.genruntimeconfig.cache
+c:\Users\huyvo\Downloads\New folder\CN2301C.FENGSHUI-main\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_BO\obj\Debug\net6.0\ref\FengShuiKoi_BO.dll
