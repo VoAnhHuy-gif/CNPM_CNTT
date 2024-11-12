@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KoiFengShui.BE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+489577980f19ffc884e53eebdcd53fd8aef7a452")]
 [assembly: System.Reflection.AssemblyProductAttribute("KoiFengShui.BE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KoiFengShui.BE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

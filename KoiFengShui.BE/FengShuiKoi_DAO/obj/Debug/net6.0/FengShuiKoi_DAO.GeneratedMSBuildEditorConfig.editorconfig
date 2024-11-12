@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FengShuiKoi_DAO
-build_property.ProjectDir = C:\Users\ADMIN\Downloads\CN2301C.FENGSHUI-main\KoiFengShui.BE\FengShuiKoi_DAO\
+build_property.ProjectDir = C:\Users\ADMIN\OneDrive\Desktop\CNPM_CNTT\KoiFengShui.BE\FengShuiKoi_DAO\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

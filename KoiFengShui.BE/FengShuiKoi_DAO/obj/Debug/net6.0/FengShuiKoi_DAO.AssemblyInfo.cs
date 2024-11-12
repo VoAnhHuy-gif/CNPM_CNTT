@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FengShuiKoi_DAO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+489577980f19ffc884e53eebdcd53fd8aef7a452")]
 [assembly: System.Reflection.AssemblyProductAttribute("FengShuiKoi_DAO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FengShuiKoi_DAO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
