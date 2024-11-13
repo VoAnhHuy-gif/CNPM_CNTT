@@ -1,0 +1,71 @@
+.dashboard-container {
+  display: flex;
+  background-color: #f0f2f5;
+}
+
+.dashboard-content {
+  flex-grow: 1;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 24px;
+}
+
+.ant-table-wrapper {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.user-management-table {
+  margin: 10px 100px;
+}
+
+.ant-table-tbody > tr:hover {
+  background-color: #f5f5f5;
+}
+
+.ant-btn {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.ant-btn:hover {
+  background-color: #1890ff;
+  color: white;
+}
+
+.ant-select-selector {
+  border-radius: 4px;
+  border: 1px solid #d9d9d9;
+}
+
+.ant-select-selector:hover {
+  border-color: #40a9ff;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.search-select-container,
+.search-input-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-select {
+  width: 150px;
+}
+
+.search-input {
+  width: 220px;
+}

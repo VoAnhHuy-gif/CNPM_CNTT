@@ -1,0 +1,35 @@
+.dashboard-container {
+  display: flex;
+}
+
+.dashboard-content {
+  flex-grow: 1;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap; /* Cho phép các thẻ card xuống dòng */
+}
+
+.pond-item {
+  border: 1px solid #ccc; /* Đường viền cho thẻ card */
+  border-radius: 8px; /* Bo góc cho thẻ card */
+  padding: 15px; /* Khoảng cách bên trong thẻ card */
+  margin: 10px; /* Khoảng cách giữa các thẻ card */
+  width: 200px; /* Chiều rộng cố định cho thẻ card */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Đổ bóng cho thẻ card */
+  text-align: center; /* Căn giữa nội dung trong thẻ card */
+}
+
+.pond-item .ant-image {
+  /* Styles cho container của Image */
+  width: 150px;
+  height: 150px;
+  margin-bottom: 10px;
+}
+
+.pond-item .ant-image-img {
+  /* Styles cho thẻ img bên trong Image component */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px;
+}

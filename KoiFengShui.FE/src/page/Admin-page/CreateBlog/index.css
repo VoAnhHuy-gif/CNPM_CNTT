@@ -1,0 +1,69 @@
+.ads-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.action-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.save-button {
+  background-color: #1890ff;
+  color: white;
+}
+
+.save-button:hover {
+  background-color: #40a9ff;
+}
+
+.choose-package-button {
+  background-color: #52c41a;
+  color: white;
+}
+
+.choose-package-button:hover {
+  background-color: #73d13d;
+}
+
+.ad-preview {
+  margin-top: 30px;
+  border: 1px solid #ddd;
+  padding: 20px;
+}
+
+.choose-package-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.choose-package-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.ad-preview img{
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.ant-card {
+  height: 100%;
+}
+
+.ant-form-item {
+  margin-bottom: 20px;
+}
+
