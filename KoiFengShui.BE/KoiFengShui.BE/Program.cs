@@ -21,9 +21,9 @@ namespace KoiFengShui.BE
 
             // Configure JWT
                        // Configure JWT
-            var jwtSigningKey = Environment.GetEnvironmentVariable("JWT_SIGNING_KEY") ?? "YourTestSigningKey";
-            var jwtIssuer = Environment.GetEnvironmentVariable("JWT_ISSUER") ?? "TestIssuer";
-            var jwtAudience = Environment.GetEnvironmentVariable("JWT_AUDIENCE") ?? "TestAudience";
+            var jwtSigningKey = Environment.GetEnvironmentVariable("JWT_SIGNING_KEY");
+            var jwtIssuer = Environment.GetEnvironmentVariable("JWT_ISSUER");
+            var jwtAudience = Environment.GetEnvironmentVariable("JWT_AUDIENCE");
 
             if (string.IsNullOrEmpty(jwtSigningKey) || string.IsNullOrEmpty(jwtIssuer) || string.IsNullOrEmpty(jwtAudience))
             {
