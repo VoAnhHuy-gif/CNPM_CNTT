@@ -1,0 +1,29 @@
+
+.Header-Title{
+  font-family: Arial, sans-serif;
+}
+.Header-Title h1{
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 10px;
+  color: #333;
+}
+.Header-Title p{
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+}
+.formRegister{
+  height: 50%;
+}
+.datePicker{
+  width: 100%;
+}
+.calculate-button{
+  border-radius: 11px !important;
+}
+.authen-template{
+  margin-top: 100px;
+}
+
+

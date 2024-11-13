@@ -1,0 +1,75 @@
+.ads-management {
+  font-size: 14px;
+  border-radius: 20px; 
+}
+
+.ads-table {
+  font-size: 12px;
+}
+
+.ant-table-thead > tr > th {
+  padding: 8px 16px;
+  white-space: nowrap;
+  color: #000000; /* Đặt màu chữ về đen */
+}
+
+.ant-table-tbody > tr > td {
+  padding: 8px 16px;
+}
+
+.ads-image {
+  max-width: 60px;
+  max-height: 45px;
+  object-fit: cover;
+}
+
+.ads-view-details {
+  font-size: 12px;
+  padding: 2px 8px;
+}
+
+.ads-action-buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+.ads-action-buttons .ant-btn {
+  font-size: 12px;
+  padding: 2px 8px;
+  margin-bottom: 4px;
+}
+
+/* Thêm style cho cột tiêu đề */
+.ads-table .ant-table-cell {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 150px; /* Điều chỉnh theo nhu cầu */
+}
+
+/* Responsive styles */
+@media (max-width: 1200px) {
+  .ads-management {
+    font-size: 12px;
+  }
+
+  .ads-table {
+    font-size: 11px;
+  }
+  
+  .ads-title {
+    font-size: 18px;
+  }
+}
+
+.feedback-filter {
+  margin-bottom: 16px;
+}
+
+.feedback-item {
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+}
+.feedback-item:last-child {
+  border-bottom: none;
+}
