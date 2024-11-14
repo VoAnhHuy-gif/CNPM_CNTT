@@ -1,0 +1,123 @@
+.login-header{
+    font-family: Arial, sans-serif;
+}
+.login-header h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+    margin-top: 10px;
+  }
+  
+  .login-header p {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    margin: 0 0 40px 0px;
+  }
+.formRegister{
+    height: 50%;
+}
+.datePicker{
+    width: 100%;
+    border: none;
+    border-radius: 20px !important;
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 12px !important;
+    transition: all 0.3s ease;
+}
+.register-form input,
+.register-form .ant-input-password,
+.register-form .ant-picker {
+  width: 100%;
+  padding: 8px 8px !important;
+  border: none;
+  border-radius: 20px !important;
+  background-color: rgba(255, 255, 255, 0.8);
+  font-size: 16px !important;
+  transition: all 0.3s ease;
+}
+
+.register-form input::placeholder,
+.register-form .ant-input-password input::placeholder,
+.register-form .ant-picker-input input::placeholder {
+  padding-left: 10px;
+}
+
+.register-form .ant-input-password {
+  padding: 0 !important;
+}
+
+.register-form .ant-input-password input {
+  padding: 8px 8px !important;
+}
+
+.register-form input:focus,
+.register-form .ant-input-password:focus,
+.register-form .ant-picker:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.register-form .ant-form-item-control-input-content{
+  text-decoration: none;
+  color: #989292;
+} 
+
+
+.register-form button{
+     
+    width: 80px !important;
+    height: 80px !important;
+    padding: 6px 8px !important;
+    border: none;
+    border-radius: 40px !important;
+    background-color: #0056b3 !important;
+    font-size: 16px !important;
+    transition: all 0.3s ease;
+    left: 51%;
+    /* right: 50%; */
+    transform: translateX(-50%);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: #fff;
+}
+
+
+.register-form button:hover {
+    background-color: #0056b3;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.5 );
+    transform: translateX(-50%) scale(1.05);
+}
+
+.register-form button:active {
+    background-color: #0056b3;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transform: translateX(-50%) scale(0.95);
+}
+
+.register-form .ant-input-password-icon {
+  margin-right: 10px;
+}
+
+.register-form .ant-picker {
+  height: 40px;
+}
+
+.register-form .ant-picker-input > input {
+  font-size: 14px;
+}
+
+.register-form .ant-picker-suffix {
+  font-size: 14px;
+}
+
+.register-form .login-link {
+  display: block;
+  text-align: center;
+  margin-top: 70px;
+  font-size: 14px;
+}
+
+.register-form .ant-form-item {
+  margin-bottom: 25px;
+}

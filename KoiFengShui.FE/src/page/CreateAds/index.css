@@ -1,0 +1,142 @@
+.ads-create-container {
+  max-width: 800px;
+  margin: 120px auto 80px !important;
+  padding: 20px;
+  background-color: rgb(226, 240, 252);
+  border-radius: 30px;
+ 
+}
+.ads-create-title {
+  text-align: center;
+}
+
+
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.action-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  
+}
+
+.save-button {
+  background-color: #1890ff;
+  color: white;
+}
+
+
+.save-button:hover {
+  background-color: #40a9ff;
+}
+
+.choose-package-button {
+  background-color: #52c41a;
+  color: white;
+}
+
+.choose-package-button:hover {
+  background-color: #73d13d;
+
+}
+
+.ad-preview {
+  margin-top: 30px;
+  border: 1px solid #ddd;
+  padding: 20px;
+}
+
+.choose-package-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.choose-package-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.ad-preview img{
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.ant-card {
+  height: 100%;
+}
+
+.ant-form-item {
+  margin-bottom: 20px;
+}
+
+.element-selection {
+  margin-bottom: 20px;
+}
+
+.element-selection h3 {
+  margin-bottom: 10px;
+}
+
+.ant-radio-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.input-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.input-column {
+  flex: 1;
+  min-width: 0;
+}
+
+.input-column input,
+.input-column select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.image-upload {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.image-upload .ant-upload-select-picture-card {
+  width: 100%;
+  max-width: 300px;
+}
+
+@media (max-width: 768px) {
+  .input-row {
+    flex-direction: column;
+  }
+
+  .input-column {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+}
