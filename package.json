@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.9.16"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
