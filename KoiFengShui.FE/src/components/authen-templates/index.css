@@ -1,0 +1,103 @@
+.authen-template{
+    /* width: 100vw;
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1640507352023-dbab4a9d2227?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8S29pJTIwZmlzaHxlbnwwfDB8MHx8fDA%3D');
+    background-repeat: no-repeat;
+    background-size: cover;  */
+    /* để cover để tấm hình tự cover hết màn hình. 
+    Có thể tìm hình trên unsplash.com 
+    Thường nên chọn ảnh landscape để chiều ngang phù hợp với màn hình*/
+    /* display: flex;
+    align-items: center; */
+    display: flex;
+    max-width: 900px;
+    height: 800px;
+    margin: 50px auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+.login-image-container {
+    flex: 1;
+    position: relative;
+    overflow: hidden;
+  }
+.authen-template__form{
+    /* width: 500px;
+    height: 90vh;
+    background-color: white;
+
+    border-radius: 12px; 
+    padding: 30px; */
+    /* border-radius: bo viền cong */
+    width:100%;
+    max-width: 400px;
+  
+    height: 100vh;
+  
+    margin:0 auto;
+    padding: 40px ;
+    background-color: #cff2fe;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  
+}
+.authen-template__form input {
+    width: 100%;
+
+    padding: 10px !important;
+    border: none;
+    border-radius: 20px !important;
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 18px !important;
+    transition: all 0.3s ease;
+}
+ 
+
+#Password{
+    width: 100%;
+    padding: 10px !important;
+    border: none;
+    border-radius: 20px !important;
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 18px !important;
+    transition: all 0.3s ease;
+}
+
+.authen-template__form input:focus {
+    outline: none;
+    background-color: white;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+}
+.authen-template__form button {
+    width: 100%;
+    padding: 12px;
+    background-color: #358aa4;
+    color: white;
+    border: none;
+
+    border-radius: 15px;
+
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.authen-template__form a {
+    color: #007bff;
+    text-decoration: none;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.authen-template__form a:hover {
+    text-decoration: underline;
+}
+.koi-image{
+    width: 100%;
+  height: 100%;
+  object-fit: COVER;
+   
+}
+
+/* Kĩ thuật flex box */

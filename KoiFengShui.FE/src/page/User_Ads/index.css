@@ -1,0 +1,53 @@
+.container-ads{
+  margin-top: 100px !important;
+}
+.Heading{
+    display: flex;
+    justify-content: space-between;
+}
+.btn-create{
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+    
+}
+.action-button {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.action-button button {
+  flex: 0 0 auto;
+}
+
+.ant-table-wrapper {
+  overflow-x: auto;
+}
+
+.ant-table-cell {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+}
+
+.ant-table-cell.action-cell {
+  max-width: none;
+  white-space: normal;
+}
+
+@media (max-width: 768px) {
+  .action-button {
+    flex-direction: column;
+  }
+  
+  .action-button button {
+    width: 100%;
+  }
+}

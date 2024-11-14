@@ -1,0 +1,22 @@
+.ant-layout-sider {
+    min-height: 100vh;
+  }
+  
+
+  .logo img{
+    width: 70px; /* Đặt chiều rộng */
+    height: 70px; /* Đặt chiều cao */
+    margin: 8px;
+    background: rgba(255, 255, 255, 0.3);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    border-radius: 50%; /* Tạo hình tròn */
+    overflow: hidden; /* Ẩn phần thừa nếu có */
+  }
+  .ant-menu-item a {
+    color: inherit;
+}
+
