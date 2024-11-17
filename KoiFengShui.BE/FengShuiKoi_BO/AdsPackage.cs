@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace FengShuiKoi_BO
 {
-    public AdsPackage
+    public partial class AdsPackage
     {
-        public string AdId { set; } = null!;
+        public string AdId { get; set; } = null!;
         public string Rank { get; set; } = null!;
         public DateTime StartDate { get; set; }
         public DateTime ExpiredDate { get; set; }
